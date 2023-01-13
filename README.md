@@ -64,7 +64,7 @@ Sie können uns jederzeit kontaktieren, indem Sie eine E-Mail an [contact@wolffe
 
 - Website: [wolffe.dev/tms](https://tms.wolffe.dev)
 - Twitter: [@CmdWolffe](https://twitter.com/CmdWolffe) - Separater Twitter Account für TMS folgt in den nächsten Updates
-- Discord: [Discord Server wird bald veröffentlicht](https://tms.wolffe.dev)
+- Discord: [Server wird bald veröffentlicht!](https://tms.wolffe.dev)
 
 
 # English Translation
@@ -135,4 +135,4 @@ You can always contact us by sending an email to [contact@wolffe.dev](mailto:con
 
 - Website: [wolffe.dev/tms](https://tms.wolffe.dev)
 - Twitter: [@CmdWolffe](https://twitter.com/CmdWolffe) - Separate Twitter account for TMS will follow in the next updates
-- Discord: [Discord Server Comming soon!](https://tms.wolffe.dev)
+- Discord: [Server Comming soon!](https://tms.wolffe.dev)
