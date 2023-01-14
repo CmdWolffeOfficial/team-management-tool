@@ -62,7 +62,7 @@ TMS befindet sich momentan in der Entwicklungsphase und wir arbeiten hart daran,
 ## Kontakt
 Sie können uns jederzeit kontaktieren, indem Sie eine E-Mail an [contact@wolffe.dev](mailto:contact@wolffe.dev) senden oder uns auf unseren sozialen Medien folgen.
 
-- Website: [wolffe.dev/tms](https://tms.wolffe.dev)
+- Website: [tms.wolffe.dev](https://tms.wolffe.dev)
 - Twitter: [@CmdWolffe](https://twitter.com/CmdWolffe) - Separater Twitter Account für TMS folgt in den nächsten Updates
 - Discord: [Server wird bald veröffentlicht!](https://tms.wolffe.dev)
 
@@ -133,6 +133,6 @@ TMS is currently under development and we are working hard to make it available 
 ## Contact
 You can always contact us by sending an email to [contact@wolffe.dev](mailto:contact@wolffe.dev) or by following us on our social media.
 
-- Website: [wolffe.dev/tms](https://tms.wolffe.dev)
+- Website: [tms.wolffe.dev](https://tms.wolffe.dev)
 - Twitter: [@CmdWolffe](https://twitter.com/CmdWolffe) - Separate Twitter account for TMS will follow in the next updates
 - Discord: [Server Comming soon!](https://tms.wolffe.dev)
